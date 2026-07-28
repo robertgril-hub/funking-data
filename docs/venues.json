@@ -1,1 +1,48 @@
+[
+  {
+    "id": "ljubljanski-grad",
+    "name": "Ljubljanski grad",
+    "town": "Ljubljana",
+    "address": "Grajska planota 1, 1000 Ljubljana",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.ljubljanskigrad.si"
+  },
+  {
+    "id": "arboretum-volcji-potok",
+    "name": "Arboretum Volčji Potok",
+    "town": "Radomlje",
+    "address": "Volčji Potok 3, 1235 Radomlje",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.arboretum.si"
+  },
+  {
+    "id": "kongresni-trg",
+    "name": "Kongresni trg",
+    "town": "Ljubljana",
+    "address": "Kongresni trg, 1000 Ljubljana",
+    "lat": null,
+    "lon": null,
+    "url": null
+  },
+  {
+    "id": "park-cankarjev-dom-vrhnika",
+    "name": "Park pred Cankarjevim domom",
+    "town": "Vrhnika",
+    "address": "Tržaška cesta 25, 1360 Vrhnika",
+    "lat": null,
+    "lon": null,
+    "url": "https://visitvrhnika.si"
+  },
+  {
+    "id": "samostan-mekinje",
+    "name": "Samostan Mekinje",
+    "town": "Kamnik",
+    "address": "Mekinje, 1241 Kamnik",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.kamfest.org"
+  }
+]
 
